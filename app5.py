@@ -1,0 +1,1 @@
+print('New Year',2077,'See you soon!',sep='/')
